@@ -12,7 +12,6 @@ var template = Handlebars.compile(source);
 var extArray = [];
 
 
-
 // function for listening for checkobx changes
 // disables/enables extension depending on current state
 // also re-writes $('.state')'s text to reflect the change

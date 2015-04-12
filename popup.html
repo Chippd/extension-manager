@@ -6,6 +6,7 @@
     <link rel="stylesheet" type="text/css" href="style.css">
 <!--     <link rel="stylesheet" type="text/css" href="animate.css"> -->
     <script type="text/javascript" src="jquery-2.1.1.min.js"></script>
+    <script type="text/javascript" src="switchery.js"></script>
     
 <!--     <link rel="stylesheet" type="text/css" href="font-awesome-4.2.0/css/font-awesome.min.css"> -->
 
@@ -26,7 +27,7 @@
           <img src="{{ pic }}">
           <div class="extName" >{{ name }}</div>
           <div class="extToggle">
-            <input type="checkbox" name="state" {{checkbox}} appId="{{ id }}">
+            <input type="checkbox" name="state" {{checkbox}} appId="{{ id }}" class='js-switch'>
           </div>
           <div class = "state"> {{ state }} </div>
         </div>
