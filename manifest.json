@@ -3,7 +3,7 @@
 
   "name": "Quick Extension Manager",
   "description": "Quickly and easily toggle your chrome extensions on or off",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "content_security_policy": "script-src 'self' 'unsafe-eval' https://www.google-analytics.com; object-src 'self'",
 
   "permissions": [
