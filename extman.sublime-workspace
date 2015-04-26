@@ -399,7 +399,7 @@
 			"file": "popup.html",
 			"settings":
 			{
-				"buffer_size": 1214,
+				"buffer_size": 1296,
 				"line_ending": "Unix"
 			}
 		},
@@ -407,7 +407,7 @@
 			"file": "myscript.js",
 			"settings":
 			{
-				"buffer_size": 4650,
+				"buffer_size": 4649,
 				"line_ending": "Windows"
 			}
 		},
@@ -415,7 +415,7 @@
 			"file": "style.css",
 			"settings":
 			{
-				"buffer_size": 1111,
+				"buffer_size": 1112,
 				"line_ending": "Windows"
 			}
 		},
@@ -423,15 +423,20 @@
 			"file": "manifest.json",
 			"settings":
 			{
-				"buffer_size": 501,
+				"buffer_size": 573,
 				"line_ending": "Windows"
 			}
 		}
 	],
 	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
 	"command_palette":
 	{
 		"height": 0.0,
+		"last_filter": "",
 		"selected_items":
 		[
 		],
@@ -457,7 +462,7 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/c_dermody/Dropbox/Apps/extensions/extman"
+		"/Users/Chris/Dropbox/Apps/extensions/extman"
 	],
 	"file_history":
 	[
@@ -619,15 +624,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1214,
+						"buffer_size": 1296,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								685,
-								685
+								0,
+								0
 							]
 						],
 						"settings":
@@ -650,15 +655,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 4650,
+						"buffer_size": 4649,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4634,
-								4634
+								0,
+								0
 							]
 						],
 						"settings":
@@ -681,15 +686,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1111,
+						"buffer_size": 1112,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								428,
-								428
+								0,
+								0
 							]
 						],
 						"settings":
@@ -712,15 +717,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 501,
+						"buffer_size": 573,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								163,
-								163
+								0,
+								0
 							]
 						],
 						"settings":
@@ -775,6 +780,7 @@
 	{
 		"height": 0.0
 	},
+	"pinned_build_system": "",
 	"project": "extman.sublime-project",
 	"replace":
 	{
@@ -784,6 +790,7 @@
 	"select_file":
 	{
 		"height": 0.0,
+		"last_filter": "",
 		"selected_items":
 		[
 		],
@@ -792,6 +799,7 @@
 	"select_project":
 	{
 		"height": 500.0,
+		"last_filter": "",
 		"selected_items":
 		[
 			[
@@ -804,6 +812,7 @@
 	"select_symbol":
 	{
 		"height": 0.0,
+		"last_filter": "",
 		"selected_items":
 		[
 		],
